@@ -1,0 +1,6 @@
+﻿  Cashier.cpp
+  Manager.cpp
+C:\PROJECTS\VS Projects\School Related\SDEV345_FinalProject\SDEV345_FinalProject\Manager.cpp(77,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  SDEV345_FinalProject.vcxproj -> C:\PROJECTS\VS Projects\School Related\SDEV345_FinalProject\Debug\SDEV345_FinalProject.exe
